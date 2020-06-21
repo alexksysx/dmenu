@@ -18,6 +18,13 @@ Afterwards enter the following command to build and install dmenu
 
     make clean install
 
+Patches
+-------
+Line height
+Center
+Border
+Highlight
+
 
 Running dmenu
 -------------
